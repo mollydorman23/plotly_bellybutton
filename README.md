@@ -10,6 +10,12 @@ For this challenge, I created a dashboard with visuals based on data for the typ
 
 #### Webpage: https://mollydorman23.github.io/plotly_bellybutton/
 
+##### Customizations:
+1. Add an image to the jumbotron.
+2. Add background color > set it to light grey
+3. Make the webpage mobile-responsive.
+4. Use a custom font with contrast for the colors: Verdana
+
 ![Belly Button Screenshot](https://user-images.githubusercontent.com/103781847/178127131-e4200647-31bb-41c0-af81-cf783c47dc64.png)
 
 - - - - 
